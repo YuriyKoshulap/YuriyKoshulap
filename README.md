@@ -1,42 +1,33 @@
 # Hi, I'm Yuriy Koshulap
 
-Toronto-based researcher and business/data operations specialist developing further expertise in cybersecurity, Linux and applied data work.
+Toronto-based researcher and business/data operations specialist with a strong interest in Linux, data, automation and cybersecurity.
 
-My background combines business research, CRM and data management, academic research, and technical training. I enjoy working with Linux systems, Python, SQL and practical infrastructure projects.
+My background combines technology-sector business research, CRM and data management, academic research, and technical training. I use Linux extensively and have worked with Python, SQL, Git, Power BI and related data tools.
 
 ## Current focus
 
+- Linux systems and practical automation
 - Cybersecurity and vulnerability management
-- Linux systems and self-hosting
 - Python and SQL
 - Data analysis and visualization
-- Automation and practical IT projects
+- Self-hosting and infrastructure
 
-## Selected projects
+## Selected work
 
-### Vulnerability Management Lab
-Home lab for vulnerability discovery, prioritization, remediation and verification using Linux/Windows VMs, Nmap and vulnerability-scanning tools.
+### LinuxTweaks
+Practical Linux configuration, troubleshooting and automation scripts developed through daily Fedora/Linux use.
 
-**Skills:** Linux · Networking · Nmap · Vulnerability Management · Security Reporting
-
-### Self-Hosted Portfolio Infrastructure
-Personal website deployed on Linux infrastructure, with DNS, HTTPS, secure remote access, monitoring and documented deployment.
-
-**Skills:** Linux · Raspberry Pi · DNS · HTTPS · Cloudflare · Git
-
-### Data Analysis Projects
-Python, SQL and statistical-analysis work completed through the University of Toronto Data Sciences Institute and independent projects.
-
-**Skills:** Python · pandas · SQL · Git · Data Visualization
+### Data Science Training
+Completed hands-on Python, statistics, SQL, machine-learning and production-workflow exercises through the University of Toronto Data Sciences Institute.
 
 ## Tools
 
-Python · SQL · Bash · Linux · Git/GitHub · Power BI · Tableau  
-Salesforce · HubSpot · Excel
+Linux · Bash · Python · SQL · Git/GitHub  
+Excel · Power BI · Tableau · Salesforce · HubSpot
 
-## Background
+## Currently building
 
-MA-level academic training in European Studies and languages, business-development and market-research experience in technology, and current experience in multilingual communication.
+A practical cybersecurity and homelab portfolio focused on vulnerability discovery, remediation, Linux infrastructure and secure self-hosting.
 
 📍 Toronto, Canada  
-🔗 LinkedIn: linkedin.com/in/koshulap
+🔗 [LinkedIn](https://www.linkedin.com/in/koshulap/)
