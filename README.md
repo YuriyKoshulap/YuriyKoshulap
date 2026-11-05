@@ -14,6 +14,10 @@ My background combines research, structured information work, reporting, profess
 
 ## Selected work
 
+### [GTM AI Readiness Auditor](https://github.com/YuriyKoshulap/gtm-ai-readiness-audit)
+
+Explainable CRM/RevOps data-quality app that audits account data, scores GTM readiness and prioritizes what RevOps should fix first based on downstream business impact. **[Live demo](https://gtm-ai-readiness-audit.streamlit.app/)**
+
 ### [Caravan Insurance Classification](https://github.com/YuriyKoshulap/caravan-classification)
 
 Standalone K-nearest-neighbours classification project covering class imbalance, reproducible train/test splitting, feature scaling, and model evaluation.
@@ -28,7 +32,7 @@ Hands-on defensive lab using Nessus, Nmap, Ubuntu, KVM/QEMU, and UFW. Built an i
 
 ## Tools
 
-Python · SQL · Excel · Power BI · Tableau  
+Python · pandas · Streamlit · SQL · Excel · Power BI · Tableau  
 Salesforce · HubSpot · Git/GitHub  
 Linux · Bash · KVM/QEMU  
 Nessus · Nmap · UFW
